@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417599271495",
+    "project_id": "managerefrigerator",
+    "storage_bucket": "managerefrigerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417599271495:android:56c9ac2a2e658f9e91f762",
+        "android_client_info": {
+          "package_name": "com.android.managerefrigerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417599271495-f2qkue183imkcu0db68qla52op61jcgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.managerefrigerator",
+            "certificate_hash": "27576ae31bb3dd75c5edbf30cd77c406062ff787"
+          }
+        },
+        {
+          "client_id": "417599271495-aq4sp6k1p4mfj2b3mfq93e60kqnjmntd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgsq7S4Ho6IiIvgBdkZM2W7ja9V0IYqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417599271495-aq4sp6k1p4mfj2b3mfq93e60kqnjmntd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

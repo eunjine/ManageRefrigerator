@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:title=""
+        android:icon="@drawable/baseline_door_sliding_24"/>
+
+    <item
+        android:id="@+id/menu_recipe"
+        android:enabled="true"
+        android:title=""
+        android:icon="@drawable/baseline_note_alt_24"/>
+
+    <item
+        android:id="@+id/menu_basket"
+        android:enabled="true"
+        android:icon="@drawable/baseline_shopping_basket_24"
+        android:title="" />
+</menu>
